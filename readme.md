@@ -1,1 +1,2 @@
 一个准备java实习而建的leetcode代码库
+用于记录每天的leetcode刷题结果
